@@ -1,1 +1,3 @@
 # Fantasy-Football-Dashboard
+
+This repository scrapes 2022 NFL player/team statistics from cbssports.com for fantasy football team managers to analyze. This data is used to create a power bi dashboard to compare players on their past performance. Unlike the data available to managers on platforms like ESPN Fantasy Football Manager, this dashboard expands on the performance of the opposing defense. When predicting a player's upcoming performance, that player's skills are just one piece of the puzzle. Just as important, is analyzing the opposing team's defense - such as allowed touchdowns, rush vs pass defense, etc. This analysis is missing from Fantasy Football platforms, which is the gap this dashboard is looking to fill. 
